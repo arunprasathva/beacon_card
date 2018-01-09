@@ -1,0 +1,39 @@
+/*.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}*/
+
+h3 {
+	color: white;
+	position: absolute;
+    top: 20%;
+    right: 1%;
+    transform: translateX(0%) translateY(-20%);
+	font-size:20px
+}
+
+ba {
+	color: black;
+	position: absolute;
+    top: 38%;
+    left: 1%;
+    transform: translateX(0%) translateY(-20%);
+}
+
+h4 {
+    color: white;
+	position: absolute;
+    top: 38%;
+    left: 1%;
+    transform: translateX(0%) translateY(-20%);
+	font-size:14px
+}
+
+h5 {
+    color: black;
+	position: absolute;
+    top: 38%;
+    left: 1%;
+    transform: translateX(0%) translateY(-20%);
+}
