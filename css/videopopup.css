@@ -44,11 +44,12 @@
     height: auto !important;
 }
 video{
-    position: absolute;
-    top: 15%;
-    left: 0;
-    width: 100%;
+	position: absolute;
+    top: 40%;
+    left: 5%;
+    width: 90%;
     opacity: 1 !important;
+
 
 }
 #video1{
