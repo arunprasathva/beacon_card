@@ -7,7 +7,7 @@
 h3 {
 	color: white;
 	position: absolute;
-    top: 20%;
+    top: 10%;
     right: 15px;
     transform: translateX(0%) translateY(-20%);
 	font-size:20px
@@ -24,7 +24,7 @@ ba {
 h4 {
     color: white;
 	position: absolute;
-    top: 38%;
+    top: 27%;
     /*left: 1%;
     transform: translateX(0%) translateY(-20%);*/
 	font-size:14px
@@ -40,7 +40,7 @@ h5 {
     position:relative;
 }
 
-#img2 {
+#video1 {
     position: absolute;
     left: 40%;
     top: 50%;
