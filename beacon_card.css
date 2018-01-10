@@ -34,3 +34,16 @@ h5 {
     color: black;
 	position: absolute;    
 }
+
+
+#container {
+    position:relative;
+}
+
+#img2 {
+    position: absolute;
+    left: 40%;
+    top: 50%;
+	width:50px;
+	height50px;
+}
