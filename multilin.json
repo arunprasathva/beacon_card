@@ -1,10 +1,7 @@
-https://login.olabi.ooo/api/v1/sales/get-delta-data
-
-"user_name" -> "APPUSER1@CARVN"
-"password" -> "APPUSER1"
-"device_id" -> "000000000000000"
-
-SELECT UDA_DATA_LAST_REFRESH_DATE_TIME FROM null WHERE UDA_DEVICE_ID = '000000000000000'
-UPDATE null SET UDA_DATA_LAST_REFRESH_DATE_TIME = '20/53/2016 13:53:47' WHERE UDA_DEVICE_ID = '000000000000000'
-
-UPDATE SKY_USER_DEVICE_APP SET UDA_DATA_LAST_REFRESH_DATE_TIME = '20/54/2016 14:54:41' WHERE UDA_DEVICE_ID = '000000000000000'
+{
+  "greeting": "గ్రీటింగ్",
+  "message": "సందేశం",
+  "glory": "గ్లోరీ",
+  "mustache": "మీసం",
+  "lovely-mustache": "సుందరమైన మీసం"
+}
